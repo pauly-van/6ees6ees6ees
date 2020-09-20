@@ -6,4 +6,3 @@ class Bee extends Grub {
    this.job='Keep on growing';
   }
 };
-
